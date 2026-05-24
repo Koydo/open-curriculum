@@ -28,3 +28,5 @@ This is an early public information repository. Additional public documentation 
 - Koydo TikTok: https://www.tiktok.com/@koydolearn
 - Koydo Bluesky: https://bsky.app/profile/koydolearn.bsky.social
 - Koydo Gab: https://gab.com/Koydo
+- Koydo Truth Social: https://truthsocial.com/@Koydo
+- Koydo Rumble: https://rumble.com/user/Koydo
