@@ -30,3 +30,5 @@ This is an early public information repository. Additional public documentation 
 - Koydo Gab: https://gab.com/Koydo
 - Koydo Truth Social: https://truthsocial.com/@Koydo
 - Koydo Rumble: https://rumble.com/user/Koydo
+- Koydo Pinterest: https://www.pinterest.com/koydolearn/
+- Koydo Medium: https://medium.com/@koydolearn
