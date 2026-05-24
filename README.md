@@ -23,3 +23,5 @@ This is an early public information repository. Additional public documentation 
 - Koydo: https://www.koydo.app
 - Koydo GitHub: https://github.com/koydo
 - Koydo public information: https://github.com/koydo/koydo-public
+- Koydo LinkedIn: https://www.linkedin.com/company/koydo
+- Koydo YouTube: https://www.youtube.com/@koydolearn
