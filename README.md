@@ -25,3 +25,4 @@ This is an early public information repository. Additional public documentation 
 - Koydo public information: https://github.com/koydo/koydo-public
 - Koydo LinkedIn: https://www.linkedin.com/company/koydo
 - Koydo YouTube: https://www.youtube.com/@koydolearn
+- Koydo TikTok: https://www.tiktok.com/@koydolearn
